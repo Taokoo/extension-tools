@@ -24,6 +24,35 @@
     </plugins>
   </build>
 
+
+  <!-- license -->
+  <licenses>
+    <license>
+      <name>MIT</name>
+      <url>https://github.com/Taokoo/taokoo-tools/blob/master/LICENSE</url>
+    </license>
+  </licenses>
+
+  <!-- scm -->
+  <scm>
+    <connection>scm:git:git@github.com:Taokoo/taokoo-tools.git</connection>
+    <developerConnection>scm:git:git@github.com:Taokoo/taokoo-tools.git</developerConnection>
+    <url>git@github.com:Taokoo/taokoo-tools.git</url>
+  </scm>
+
+  <!-- developers -->
+  <developers>
+    <developer>
+      <name>Taokoo</name>
+      <email>one@taokoo.com</email>
+      <timezone>+8</timezone>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+  </developers>
+
+
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
