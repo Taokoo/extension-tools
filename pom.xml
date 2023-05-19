@@ -2,11 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.taokoo</groupId>
-  <artifactId>extension-tools</artifactId>
+  <artifactId>taokoo-tools</artifactId>
   <version>1.0.0</version>
   <name>${project.artifactId}</name>
   <description>Taokoo自用</description>
-  <url>https://github.com/taokoo/extension-tools</url>
+  <url>https://github.com/taokoo/taokoo-tools</url>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
